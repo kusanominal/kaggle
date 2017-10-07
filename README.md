@@ -1,2 +1,2 @@
-# kaggle
-repository for kaggle
+# titanic
+repository for titanic
